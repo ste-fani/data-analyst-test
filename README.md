@@ -58,8 +58,8 @@ For chargeback prevention, I'd introduce mandatory step-up authentication for tr
 
 1. Clone the repository
     ```bash
-    git clone
-    cd 
+    git clone https://github.com/ste-fani/data-analyst-test.git
+    cd data-analyst-test
     ```
 
 2. Running locally with Poetry
